@@ -28,10 +28,10 @@ The app should consist of two screens
 We will evaluate your code based on:
 
 1. Functionality (Were you able to finish all required features?)
-2. Architectural Decision (Did you adopt any design patterns?)
+2. Architectural decision (Did you adopt any design patterns?)
 3. Code quality (Good naming conventions, comments)
 4. Testing (Did you create test cases?)
-5. Optimizations (refreshing, pagination, etcetc. Optional)
+5. Optimizations (Did you add a refresh mechanism, pagination, etcetc. Optional)
 6. Design (Make it pretty. Optional)
 
 
